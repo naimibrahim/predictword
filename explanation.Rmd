@@ -63,9 +63,9 @@ If none of these conditions is meet for each of the n-grams searches, the softwa
 * The next word prediction app is hosted on shinyapps.io: [https://mohdnaimibrahim.shinyapps.io/predictword/](https://mohdnaimibrahim.shinyapps.io/predictword/)
 
 
-* The whole code of this application, as well as all the milestone report, related scripts, this presentation  etc. can be found in this GitHub repo: [https://github.com/mhnierhoff/CapstoneCoursera](https://github.com/mhnierhoff/CapstoneCoursera)
+* The whole code of this application, can be found in this GitHub repo: [https://github.com/naimibrahim/predictword/](https://github.com/naimibrahim/predictword/)
 
-* This pitch deck is located here: [http://rpubs.com/nierhoff/cdsc](http://rpubs.com/nierhoff/cdsc)
+* This pitch deck is located here: [http://rpubs.com/interferens/predictword](http://rpubs.com/interferens/predictword) 
 
 ******
 
